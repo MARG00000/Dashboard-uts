@@ -22,7 +22,7 @@ body
 {
     color: red;
 }
-.slidenav
+.sidenav
 {
     height: 100%;
     width: 300px;
@@ -33,5 +33,10 @@ body
     background-color: #272c4a;
     transition: 0.5s;
     padding-top: 30px;
+
+}
+.sidenav a{
+    color: #818181;
+    text-decoration: none;
     
 }
